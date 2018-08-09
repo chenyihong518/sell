@@ -42,4 +42,5 @@
         display: inline-block
       .content
         display: inline-block
+        margin-left: 16px
 </style>
